@@ -1,6 +1,6 @@
 <p align="center">
-	<a href="https://s4g.itch.io/speedware">
-		<img width="725" height="191" src="http://solidgate.school4games.net/img/Game%20Title.png">
+	<a href="https://s4g.itch.io/solidgate">
+		<img width="491" height="491" src="https://i.imgur.com/vt4pRGM.png">
 	</a>
 	</p>
 
